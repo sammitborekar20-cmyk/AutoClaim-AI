@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset and training outputs
+data/
+runs/
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+
+# OS / editor
+.DS_Store
+.vscode/

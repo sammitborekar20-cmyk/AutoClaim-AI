@@ -1,0 +1,72 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+AutoClaimAI/.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Dataset and training data
+# =========================
+AutoClaimAI/data/
+AutoClaimAI/runs/
+
+# =========================
+# Large model files
+# =========================
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+*.ckpt
+*.safetensors
+
+# Explicitly ignore YOLO model
+AutoClaimAI/yolo11n.pt
+
+# =========================
+# Logs and temporary files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Build and cache files
+# =========================
+build/
+dist/
+*.egg-info/
+.cache/
