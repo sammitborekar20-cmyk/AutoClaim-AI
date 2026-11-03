@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+pillow
+opencv-python
+scikit-learn
+joblib
+pytesseract
+transformers
+torch
+shap
+ultralytics
+PyMuPDF
