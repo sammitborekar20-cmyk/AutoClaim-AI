@@ -70,3 +70,37 @@ build/
 dist/
 *.egg-info/
 .cache/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Dataset files (keep data.yaml in GitHub)
+data/raw/train/
+data/raw/valid/
+data/raw/test/
+data/raw/*/images/
+data/raw/*/labels/
+
+# Trained model weights
+*.pt
+*.onnx
+
+# Training outputs
+runs/
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
