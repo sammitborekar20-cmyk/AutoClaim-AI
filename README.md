@@ -138,11 +138,11 @@ AutoClaimAI/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sammitborekar20-cmyk/AutoClaim-AI.git
 cd AutoClaimAI
 ```
 
-Replace the placeholder with your actual GitHub repository URL.
+
 
 ### 2. Create a virtual environment
 
