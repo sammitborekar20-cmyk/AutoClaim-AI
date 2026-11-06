@@ -1,4 +1,4 @@
-# AutoClaim AI – Vehicle Damage Detection System
+# AutoClaim AI – Vehicle Damage Detection System For Insurance Claim
 
 An AI-powered vehicle damage detection system that uses computer vision and deep learning to identify and localize different types of vehicle damage from images.
 
